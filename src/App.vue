@@ -1,13 +1,9 @@
 <script setup lang="ts">
-
+import SimpleForm from './components/forms/SimpleForm.vue';
 </script>
 
 <template>
-
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1> 
-
+  <SimpleForm />
 </template>
 
 <style scoped></style>

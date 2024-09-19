@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "vee-validate": "^4.13.2",
-    "vue": "^3.4.37"
+    "vue": "^3.4.37",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.2",
